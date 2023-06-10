@@ -13,7 +13,7 @@ local machine and run:
 pnpm i
 ```
 
-One you install all dependencies, run the development server:
+Once you installed the dependencies, run the development server:
 
 ```bash
 pnpm dev

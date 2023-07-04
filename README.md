@@ -29,7 +29,7 @@ To learn more about NextJs, take a look at the following resources:
 - [The Ultimate NextJs 13 Course](https://www.hamedbahram.io/courses)
 - [NextJs Documentation](https://nextjs.org/docs)
 
-You can also check out my YouTube Channel for free tutorials:
+You can also check out my YouTube Channel for more tutorials:
 [Hamed's YouTube Channel](https://www.youtube.com/@hamedbahram) – your
 subscriptions and comments are welcomed!
 

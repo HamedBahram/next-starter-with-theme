@@ -13,7 +13,7 @@ local machine and run:
 pnpm i
 ```
 
-Once you installed the dependencies, run the development server:
+Once you have installed the dependencies, run the development server:
 
 ```bash
 pnpm dev
@@ -31,7 +31,7 @@ To learn more about NextJs, take a look at the following resources:
 
 You can also check out my YouTube Channel for free tutorials:
 [Hamed's YouTube Channel](https://www.youtube.com/@hamedbahram) – your
-subscription and comments are welcomed!
+subscriptions and comments are welcomed!
 
 ## Deploy on Vercel
 
